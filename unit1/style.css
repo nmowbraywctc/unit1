@@ -1,0 +1,24 @@
+html {
+    background: url('background.jpg') no-repeat center fixed;
+    background-size: cover;
+}
+h1 {
+    font-size: 4em;
+    color: azure;
+}
+
+h2 {
+    font-size: 2em;
+    color: lightgreen;
+}
+
+article {
+    font-size: 1.2em;
+    width: 960px;
+    text-align: center;
+    background: ivory;
+    padding: 20px;
+    overflow: auto;
+}
+
+
